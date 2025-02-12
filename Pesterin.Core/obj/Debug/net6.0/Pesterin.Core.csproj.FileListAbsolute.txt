@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\bin\Debug\net6.0\Pesterin.Core.deps.json
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\bin\Debug\net6.0\Pesterin.Core.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\bin\Debug\net6.0\Pesterin.Core.pdb
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\Pesterin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\Pesterin.Core.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\Pesterin.Core.AssemblyInfo.cs
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\Pesterin.Core.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\Pesterin.Core.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\refint\Pesterin.Core.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\Pesterin.Core.pdb
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Pesterin.Core\obj\Debug\net6.0\ref\Pesterin.Core.dll

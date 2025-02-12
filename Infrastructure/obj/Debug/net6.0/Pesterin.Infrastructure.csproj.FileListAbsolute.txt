@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\bin\Debug\net6.0\Pesterin.Infrastructure.deps.json
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\bin\Debug\net6.0\Pesterin.Infrastructure.runtimeconfig.json
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\bin\Debug\net6.0\Pesterin.Infrastructure.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\bin\Debug\net6.0\Pesterin.Infrastructure.pdb
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\bin\Debug\net6.0\Pesterin.Core.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\bin\Debug\net6.0\Pesterin.Core.pdb
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.613BB019.Up2Date
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\refint\Pesterin.Infrastructure.dll
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.pdb
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\Pesterin.Infrastructure.genruntimeconfig.cache
+C:\Users\MSI\Desktop\2025\Learning\Pesterin\Infrastructure\obj\Debug\net6.0\ref\Pesterin.Infrastructure.dll
