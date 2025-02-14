@@ -25,6 +25,7 @@ namespace Pesterin.Infrastructure.Data
             }
         }
 
+
         private string GetConnectionString()
         {
             IConfigurationRoot configurationRoot = new ConfigurationBuilder()
@@ -32,12 +33,32 @@ namespace Pesterin.Infrastructure.Data
                 .AddJsonFile("appsettings.json", true, true)
                 .Build();
 
-            return configurationRoot.GetConnectionString("PesterinDb");
+            return configurationRoot.GetConnectionString("PesterinDb") + "";
         }
 
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Package> Packages { get; set; }
         public DbSet<Art> Arts { get; set; }
         public DbSet<Payment> Payment { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            foreach (var entityType in modelBuilder.Model.GetEntityTypes())
+            {
+                var primaryKey = entityType.FindPrimaryKey();
+                if (primaryKey != null)
+                {
+                    var primaryKeyProperty = primaryKey.Properties.FirstOrDefault(p => p.ClrType == typeof(Guid));
+                    if (primaryKeyProperty != null)
+                    {
+                        modelBuilder.Entity(entityType.ClrType)
+                                    .Property(primaryKeyProperty.Name)
+                                    .ValueGeneratedOnAdd();
+                    }
+                }
+            }
+        }
     }
 }

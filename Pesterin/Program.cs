@@ -1,3 +1,8 @@
+using Pesterin.Core.Uows;
+using Pesterin.Extensions;
+using Pesterin.Infrastructure.Uows;
+using Pesterin.Services.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -10,7 +15,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy => 
     policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod().AllowCredentials()));
 
-
+builder.Services.Inject(builder.Configuration);
+builder.Services.InjectAPI(builder.Configuration);
 
 var app = builder.Build();
 

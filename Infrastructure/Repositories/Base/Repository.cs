@@ -43,12 +43,12 @@ namespace Pesterin.Infrastructure.Repositories.Base
             }
         }
 
-        public IEnumerable<T> Find(Expression<Func<T, bool>> expression)
+        public Task<List<T>> Find(Expression<Func<T, bool>> expression)
         {
-            return _context.Set<T>().Where(expression);
+            return _context.Set<T>().Where(expression).ToListAsync();
         }
 
-        public IEnumerable<T> GetAll(int? pageIndex = null, int? pageSize = null)
+        public Task<List<T>> GetAll(int? pageIndex = null, int? pageSize = null)
         {
             IQueryable<T> query = _context.Set<T>();
 
@@ -59,7 +59,7 @@ namespace Pesterin.Infrastructure.Repositories.Base
                 query = query.Skip(index * size).Take(size);
             }
 
-            return query.ToList();
+            return query.ToListAsync();
         }
 
         public T GetById(int id)
