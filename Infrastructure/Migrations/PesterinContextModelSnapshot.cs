@@ -67,7 +67,10 @@ namespace Pesterin.Infrastructure.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid?>("AccountId")
+                    b.Property<Guid>("AccountId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("CategoryId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Description")
@@ -92,7 +95,28 @@ namespace Pesterin.Infrastructure.Migrations
 
                     b.HasIndex("AccountId");
 
+                    b.HasIndex("CategoryId");
+
                     b.ToTable("Arts");
+                });
+
+            modelBuilder.Entity("Pesterin.Core.Entities.Category", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Category");
                 });
 
             modelBuilder.Entity("Pesterin.Core.Entities.Package", b =>
@@ -144,12 +168,29 @@ namespace Pesterin.Infrastructure.Migrations
 
             modelBuilder.Entity("Pesterin.Core.Entities.Art", b =>
                 {
-                    b.HasOne("Pesterin.Core.Entities.Account", null)
+                    b.HasOne("Pesterin.Core.Entities.Account", "Account")
                         .WithMany("Arts")
-                        .HasForeignKey("AccountId");
+                        .HasForeignKey("AccountId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Pesterin.Core.Entities.Category", "Category")
+                        .WithMany("Arts")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Account");
+
+                    b.Navigation("Category");
                 });
 
             modelBuilder.Entity("Pesterin.Core.Entities.Account", b =>
+                {
+                    b.Navigation("Arts");
+                });
+
+            modelBuilder.Entity("Pesterin.Core.Entities.Category", b =>
                 {
                     b.Navigation("Arts");
                 });

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Pesterin.Exceptions;
 using Pesterin.Infrastructure.Data;
 
 namespace Pesterin.Extensions
@@ -12,6 +13,12 @@ namespace Pesterin.Extensions
             services.AddDbContext<PesterinContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("PesterinDb")));
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            services.AddControllers(options =>
+            {
+                options.Filters.Add<ExceptionHadler>();
+            });
+
         }
-    }
+}
 }

@@ -19,7 +19,8 @@ namespace Pesterin.Services.Extensions
             
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IAccountService, AccountService>();
-            
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IArtService, ArtService>();
         }
     }
 }

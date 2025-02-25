@@ -12,6 +12,7 @@ namespace Pesterin.Core.Uows
         IAccountRepository AccountRepository { get; }
         IArtRepository ArtRepository { get; }
         IPackageRepository PackageRepository { get; }
+        ICategoryRepository CategoryRepository { get; }
         Task<int> SaveChangeAsync();
     }
 }

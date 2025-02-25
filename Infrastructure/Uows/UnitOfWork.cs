@@ -16,6 +16,7 @@ namespace Pesterin.Infrastructure.Uows
         public IAccountRepository AccountRepository {  get; private set; }
         public IPackageRepository PackageRepository { get; private set; }
         public IArtRepository ArtRepository { get; private set; }
+        public ICategoryRepository CategoryRepository { get; private set; }
 
         public UnitOfWork(PesterinContext context)
         {
@@ -23,6 +24,7 @@ namespace Pesterin.Infrastructure.Uows
             AccountRepository = new AccountRepository(_context);
             PackageRepository = new PackageRepository(_context);
             ArtRepository = new ArtRepository(_context);
+            CategoryRepository = new CategoryRepository(_context);
         }
 
         public async Task<int> SaveChangeAsync()

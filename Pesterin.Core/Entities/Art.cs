@@ -16,6 +16,8 @@ namespace Pesterin.Core.Entities
         public string Title { get; set; }
         public string Description { get; set; }
         public TypeArt Type { get; set; }
+        public Category Category { get; set; }
+        public Account Account { get; set; }
         public ArtStatus Status { get; set; }
     }
 }

@@ -9,7 +9,7 @@ namespace Pesterin.Core.Repositories.Base
 {
     public interface IRepository<T> where T : class
     {
-        T GetById(int id);
+        T GetById(Guid id);
         Task<List<T>> GetAll(int? pageIndex = null, int? pageSize = null);
         Task<List<T>> Find(Expression<Func<T, bool>> expression);
         T? FirstOrDefault(Expression<Func<T, bool>> expression);

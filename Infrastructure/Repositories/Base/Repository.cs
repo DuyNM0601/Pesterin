@@ -62,7 +62,7 @@ namespace Pesterin.Infrastructure.Repositories.Base
             return query.ToListAsync();
         }
 
-        public T GetById(int id)
+        public T GetById(Guid id)
         {
             return _context.Set<T>().Find(id);
         }

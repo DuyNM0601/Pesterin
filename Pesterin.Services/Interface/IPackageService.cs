@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pesterin.Services.Interface
 {
-    internal class IPackageService
+    public interface IPackageService
     {
     }
 }

@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\impls\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\impls\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\controllers\\artcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\models\\arts\\createartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\models\\arts\\createartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\models\\arts\\artviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\models\\arts\\artviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\impls\\artservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\impls\\artservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\models\\categories\\createcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\models\\categories\\createcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\interface\\iartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\interface\\iartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\repositories\\artrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,40 +43,136 @@
       "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\maps\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\maps\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\models\\accounts\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\models\\accounts\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\exceptions\\exceptionhadler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\exceptions\\exceptionhadler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\responses\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\responses\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\responses\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\responses\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\extensions\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\extensions\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\repositories\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\impls\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\impls\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\impls\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\impls\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\models\\accounts\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\models\\accounts\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\entities\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\entities\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\interface\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\extensions\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\extensions\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\uows\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\uows\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\uows\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\uows\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\maps\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\maps\\automapperconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\models\\categories\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\models\\categories\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.services\\interface\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B2F9AF-F5C4-4FBE-B031-856A52E7388C}|Pesterin.Services\\Pesterin.Services.csproj|solutionrelative:pesterin.services\\interface\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\repositories\\iartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\repositories\\iartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\data\\pesterincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\data\\pesterincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\enums\\typeart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\enums\\typeart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\migrations\\20250211162902_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250211162902_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E927EA55-C257-424F-9DA1-C351C519E4AB}|Pesterin\\Pesterin.csproj|solutionrelative:pesterin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\migrations\\20250212152559_addguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250212152559_addguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\pesterin.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A81006-225A-4191-B6E1-E0EF8D0C60A1}|Pesterin.Core\\Pesterin.Core.csproj|solutionrelative:pesterin.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|c:\\users\\msi\\desktop\\2025\\pesterin\\infrastructure\\migrations\\20250220053457_add-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD71ECEE-5DF7-4001-816F-A50B46BA6BAC}|Infrastructure\\Pesterin.Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250220053457_add-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,37 +182,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "Pesterin.Core\\Repositories\\IAccountRepository.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\IAccountRepository.cs",
-              "RelativeToolTip": "Pesterin.Core\\Repositories\\IAccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ArtService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Impls\\ArtService.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Impls\\ArtService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Impls\\ArtService.cs",
+              "RelativeToolTip": "Pesterin.Services\\Impls\\ArtService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwDkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T04:44:23.108Z",
+              "WhenOpened": "2025-02-20T04:16:01.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\Base\\IRepository.cs",
-              "RelativeDocumentMoniker": "Pesterin.Core\\Repositories\\Base\\IRepository.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\Base\\IRepository.cs",
-              "RelativeToolTip": "Pesterin.Core\\Repositories\\Base\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CreateArtViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Arts\\CreateArtViewModel.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Models\\Arts\\CreateArtViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Arts\\CreateArtViewModel.cs",
+              "RelativeToolTip": "Pesterin.Services\\Models\\Arts\\CreateArtViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T04:44:21.068Z",
+              "WhenOpened": "2025-02-20T04:28:40.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CreateCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Categories\\CreateCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Models\\Categories\\CreateCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Categories\\CreateCategoryViewModel.cs",
+              "RelativeToolTip": "Pesterin.Services\\Models\\Categories\\CreateCategoryViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:49:47.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Arts\\ArtViewModel.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Models\\Arts\\ArtViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Arts\\ArtViewModel.cs",
+              "RelativeToolTip": "Pesterin.Services\\Models\\Arts\\ArtViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:05:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Pesterin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:24:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\ArtController.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Controllers\\ArtController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\ArtController.cs",
+              "RelativeToolTip": "Pesterin\\Controllers\\ArtController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:30:05.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Pesterin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:29:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IArtService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\IArtService.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Interface\\IArtService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\IArtService.cs",
+              "RelativeToolTip": "Pesterin.Services\\Interface\\IArtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:15:48.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\ArtRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ArtRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\ArtRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ArtRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:43:43.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PackageRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\PackageRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PackageRepository.cs",
@@ -117,83 +316,387 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArtRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\ArtRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ArtRepository.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\ArtRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\ArtRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T04:43:43.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\Base\\Repository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Base\\Repository.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\Base\\Repository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\Base\\Repository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T04:43:34.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\AccountRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AccountRepository.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\AccountRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\AccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T04:43:32.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Package.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Entities\\Package.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Package.cs",
+              "RelativeToolTip": "Pesterin.Core\\Entities\\Package.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:26:08.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHadler.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Exceptions\\ExceptionHadler.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Exceptions\\ExceptionHadler.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Exceptions\\ExceptionHadler.cs",
+              "RelativeToolTip": "Pesterin\\Exceptions\\ExceptionHadler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:07:25.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Responses\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Responses\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Responses\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pesterin\\Responses\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:25:15.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Responses\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Responses\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Responses\\ResponseResult.cs",
+              "RelativeToolTip": "Pesterin\\Responses\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:25:15.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Extensions\\DI.cs",
+              "RelativeDocumentMoniker": "Pesterin\\Extensions\\DI.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Extensions\\DI.cs",
+              "RelativeToolTip": "Pesterin\\Extensions\\DI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:34:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Repositories\\Base\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\Base\\IRepository.cs",
+              "RelativeToolTip": "Pesterin.Core\\Repositories\\Base\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:44:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Impls\\AccountService.cs",
               "RelativeDocumentMoniker": "Pesterin.Services\\Impls\\AccountService.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Impls\\AccountService.cs",
               "RelativeToolTip": "Pesterin.Services\\Impls\\AccountService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T15:39:35.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Base\\Repository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\Base\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Base\\Repository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:43:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Impls\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Impls\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Impls\\CategoryService.cs",
+              "RelativeToolTip": "Pesterin.Services\\Impls\\CategoryService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:42:46.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AccountViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Accounts\\AccountViewModel.cs",
               "RelativeDocumentMoniker": "Pesterin.Services\\Models\\Accounts\\AccountViewModel.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Accounts\\AccountViewModel.cs",
               "RelativeToolTip": "Pesterin.Services\\Models\\Accounts\\AccountViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:39:14.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Art.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Art.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Entities\\Art.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Art.cs",
+              "RelativeToolTip": "Pesterin.Core\\Entities\\Art.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:04:26.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Interface\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "Pesterin.Services\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:40:55.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Interface\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\IAccountService.cs",
+              "RelativeToolTip": "Pesterin.Services\\Interface\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:47:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Extensions\\DI.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Extensions\\DI.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Extensions\\DI.cs",
+              "RelativeToolTip": "Pesterin.Services\\Extensions\\DI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:28:41.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:38:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Uows\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Uows\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Uows\\IUnitOfWork.cs",
+              "RelativeToolTip": "Pesterin.Core\\Uows\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:25:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Uows\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Uows\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Uows\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Uows\\UnitOfWork.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:27:34.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AutoMapperConfigs.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
+              "RelativeToolTip": "Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:31:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Categories\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Models\\Categories\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Models\\Categories\\CategoryViewModel.cs",
+              "RelativeToolTip": "Pesterin.Services\\Models\\Categories\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:33:27.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPackageService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\IPackageService.cs",
+              "RelativeDocumentMoniker": "Pesterin.Services\\Interface\\IPackageService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Interface\\IPackageService.cs",
+              "RelativeToolTip": "Pesterin.Services\\Interface\\IPackageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:41:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Pesterin.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:30:17.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Pesterin.Core\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:37:16.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IArtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\IArtRepository.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Repositories\\IArtRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\IArtRepository.cs",
+              "RelativeToolTip": "Pesterin.Core\\Repositories\\IArtRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:39:14.577Z"
+              "WhenOpened": "2025-02-20T05:37:34.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DI.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Extensions\\DI.cs",
-              "RelativeDocumentMoniker": "Pesterin\\Extensions\\DI.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Extensions\\DI.cs",
-              "RelativeToolTip": "Pesterin\\Extensions\\DI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Pesterin.Core\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:34:24.479Z"
+              "WhenOpened": "2025-02-14T04:44:23.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 42,
+              "Title": "20250220053457_Add-Category.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Migrations\\20250220053457_Add-Category.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250220053457_Add-Category.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Migrations\\20250220053457_Add-Category.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250220053457_Add-Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:34:57.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TypeArt.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Enums\\TypeArt.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Enums\\TypeArt.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Enums\\TypeArt.cs",
+              "RelativeToolTip": "Pesterin.Core\\Enums\\TypeArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:08:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Account.cs",
+              "RelativeToolTip": "Pesterin.Core\\Entities\\Account.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:26:06.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PesterinContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Data\\PesterinContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\PesterinContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Data\\PesterinContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\PesterinContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:24:11.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Pesterin.Core\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Core\\Entities\\Payment.cs",
+              "RelativeToolTip": "Pesterin.Core\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:29:56.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Program.cs",
               "RelativeDocumentMoniker": "Pesterin\\Program.cs",
@@ -205,31 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutoMapperConfigs.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
-              "RelativeDocumentMoniker": "Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
-              "RelativeToolTip": "Pesterin.Services\\Maps\\AutoMapperConfigs.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:31:36.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DI.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Extensions\\DI.cs",
-              "RelativeDocumentMoniker": "Pesterin.Services\\Extensions\\DI.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin.Services\\Extensions\\DI.cs",
-              "RelativeToolTip": "Pesterin.Services\\Extensions\\DI.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:28:41.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "20250211162902_DbInit.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Migrations\\20250211162902_DbInit.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250211162902_DbInit.cs",
@@ -241,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 39,
               "Title": "20250212152559_AddGuid.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Migrations\\20250212152559_AddGuid.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250212152559_AddGuid.cs",
@@ -250,30 +729,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T15:25:59.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Pesterin\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Pesterin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Pesterin\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:24:46.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PesterinContext.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Data\\PesterinContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\PesterinContext.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\2025\\Pesterin\\Infrastructure\\Data\\PesterinContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\PesterinContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:24:11.323Z"
             }
           ]
         }

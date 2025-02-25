@@ -25,7 +25,6 @@ namespace Pesterin.Infrastructure.Data
             }
         }
 
-
         private string GetConnectionString()
         {
             IConfigurationRoot configurationRoot = new ConfigurationBuilder()
@@ -40,6 +39,7 @@ namespace Pesterin.Infrastructure.Data
         public DbSet<Package> Packages { get; set; }
         public DbSet<Art> Arts { get; set; }
         public DbSet<Payment> Payment { get; set; }
+        public DbSet<Category> Category { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

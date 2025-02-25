@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Pesterin.Core.Entities;
 using Pesterin.Services.Models.Accounts;
+using Pesterin.Services.Models.Arts;
+using Pesterin.Services.Models.Categories;
 
 namespace Pesterin.Services.Maps
 {
@@ -25,6 +27,10 @@ namespace Pesterin.Services.Maps
         public AutoMapperConfigs()
         {
             CreateMap<Account, AccountViewModel>().ReverseMap();
+            CreateMap<Art, ArtViewModel>().ReverseMap();
+            CreateMap<Art, CreateArtViewModel>().ReverseMap();
+            CreateMap<Category, CreateCategoryViewModel>().ReverseMap();
+            CreateMap<Category, CategoryViewModel>().ReverseMap();
         }
     }
 }
