@@ -17,11 +17,13 @@ namespace Pesterin.Services.Impls
         private readonly IUnitOfWork _uow;
         private readonly IAccountRepository _accountRepository;
         private readonly IMapper _mapper;
-        public AccountService(IUnitOfWork uow, IMapper mapper)
+        private readonly ITokenService _tokenService;
+        public AccountService(IUnitOfWork uow, IMapper mapper, ITokenService tokenService)
         {
             _uow = uow;
             _accountRepository = _uow.AccountRepository;
             _mapper = mapper;
+            _tokenService = tokenService;
         }
 
         public async Task<List<AccountViewModel>> getAllAccount()
@@ -31,5 +33,17 @@ namespace Pesterin.Services.Impls
             return _mapper.Map<List<AccountViewModel>>(accounts);
         }
 
+        public async Task<string> GetAccount(string email, string password)
+        {
+            var checkAccount = _accountRepository.FirstOrDefault(a => a.Email == email
+                && a.Password == password);
+
+            if (checkAccount == null)
+            {
+                throw new UnauthorizedAccessException("Email or Password is wrong");
+            }
+
+            return _tokenService.GenerateToken(email, checkAccount.Id);
+        }
     }
 }

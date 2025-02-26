@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Pesterin.Responses;
 using Pesterin.Services.Impls;
 using Pesterin.Services.Interface;
@@ -7,6 +8,7 @@ using Pesterin.Services.Models.Categories;
 
 namespace Pesterin.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class CategoryController : ControllerBase

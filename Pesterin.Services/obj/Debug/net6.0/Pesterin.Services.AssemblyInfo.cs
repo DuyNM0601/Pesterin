@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pesterin.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c73eb54d467457521c0e28dce2cc93b5b0989485")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8422d6eb655b465a345158bc6de05bd5d410f9f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pesterin.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pesterin.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

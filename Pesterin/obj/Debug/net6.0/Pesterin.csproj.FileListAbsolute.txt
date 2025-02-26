@@ -189,3 +189,6 @@ C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\Scrutor.dll
 C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\JWT.dll
+C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MSI\Desktop\2025\Pesterin\Pesterin\bin\Debug\net6.0\Newtonsoft.Json.dll

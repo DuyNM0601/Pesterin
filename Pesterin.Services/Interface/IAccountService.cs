@@ -12,5 +12,6 @@ namespace Pesterin.Services.Interface
     public interface IAccountService
     {
         Task<List<AccountViewModel>> getAllAccount();
+        Task<string> GetAccount(string email, string password);
     }
 }
